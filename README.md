@@ -1,7 +1,7 @@
 ## 👋 Hello World! I'm Maria Clara, be very welcome
 I am a Systems Analysis and Development student at the Federal Institute of Bahia, with a strong interest in data analysis and backend development. My goal is to continuously improve my Python skills and deepen my understanding of software engineering best practices. Through technology, I strive to build practical and efficient solutions to everyday problems.
 
-## 🛠 Tech Stack
+## 🛠 Technologies and programing languages 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
